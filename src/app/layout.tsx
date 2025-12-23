@@ -110,7 +110,7 @@ export default function RootLayout({
               "@type": "Organization",
               name: "SachiAI",
               url: "https://sachiai.com",
-              logo: "https://sachiai.com/logo.png",
+              logo: "https://sachiai.com/images/logo.png",
               description:
                 "Premium AI development company delivering solutions 3X faster at 50% lower cost with expert quality assurance.",
               sameAs: [
